@@ -1,3 +1,3 @@
 public class Shared {
-    String s = "Text Shared";
+    String s = "Text Shared FOR BOTH FEATURES";
 }
